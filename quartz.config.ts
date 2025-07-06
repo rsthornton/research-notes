@@ -2,13 +2,13 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration
+ * Shingai's Research Notes - Quartz Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Shingai's Research Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,8 +16,40 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "notes.shingai.xyz",
+    ignorePatterns: [
+      // System & Config Files
+      "private", 
+      "templates", 
+      ".obsidian", 
+      ".obsidian.backup",
+      ".vscode",
+      ".git",
+      ".DS_Store",
+      ".cursor-rules",
+      ".gitignore",
+      
+      // Personal Content
+      "personal/**",
+      "operations/**", 
+      "archive/**",
+      "Clippings/**",
+      "visual-thinking/**",
+      "resources/**",
+      
+      // Daily Notes Pattern
+      "20[0-9][0-9]-[0-9][0-9]-[0-9][0-9].md",
+      
+      // Specific Files
+      "CLAUDE.md",
+      "README.md",
+      "My Kanban.md",
+      "Untitled.base",
+      "*.kanban",
+      
+      // Initially ignore projects (you can selectively publish later)
+      "projects/**"
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
