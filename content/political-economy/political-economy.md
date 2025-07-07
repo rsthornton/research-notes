@@ -1,0 +1,1 @@
+adam smith coined the term [[political economy]]

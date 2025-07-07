@@ -2,13 +2,13 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Shingai's Research Notes - Quartz Configuration
+ * Systemism - Quartz Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Shingai's Research Notes",
+    pageTitle: "Systemism",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

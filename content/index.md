@@ -1,23 +1,23 @@
 ---
-title: "Research Notes"
-date: 2025-01-06
+title: Home
+enableToc: true
+hideDate: true
 ---
 
-# Shingai's Research Notes
+# Systemism
 
-A collection of thoughts and explorations in systems science, technology, and beyond.
+Exploring the world through the lens of systemism. 
 
-## Current Interests
+## Currently Exploring
 
-- Systems Science
-- Cryptoeconomics
-- Political Economy
-- Neuromorphics
+- **Systems Science** - Foundational principles and methodologies
+- **Cryptoeconomics** - Blockchain systems and economic design
+- **Political Economy** - Governance, institutions, policy
+- **Neuromorphics** - Brain-inspired computing and intelligence
 
-## Recent Notes
+## Navigation
 
-*Notes will appear here as I add them.*
+Browse by theme in the folders above, or discover connections through the [atomic insights](/atomic) that form the foundation of this research.
 
 ---
 
-*Building in public, one note at a time.*

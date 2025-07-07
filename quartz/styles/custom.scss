@@ -1,3 +1,21 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Hide metadata on index page
+body.index .page-header,
+body.index .content-meta,
+body.index h1:first-of-type {
+  display: none;
+}
+
+// Alternative selectors if the above don't work
+.page-title[data-page="index"],
+.content-meta[data-page="index"] {
+  display: none;
+}
+
+// Hide date specifically on index
+body:has([data-slug="index"]) .content-meta {
+  display: none;
+}
