@@ -5,6 +5,5 @@ page: 134
 chapter: ""
 citation_key: "zwick2023"
 doi: "https://doi.org/10.1007/978-3-030-99403-7"
-created: 2025-01-17
 ---
 
