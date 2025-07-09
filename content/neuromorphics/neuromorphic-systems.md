@@ -1,1 +1,0 @@
-[[neuromorphic systems ]] take inspiration from the brain to compute without using the Von Neumann architecture

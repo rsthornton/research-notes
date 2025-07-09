@@ -1,1 +1,1 @@
-a test index
+adam smith coined the term [[political economy]]

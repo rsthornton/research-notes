@@ -11,7 +11,5 @@ Exploring the world through the lens of [[systemism]].
 
 Browse by theme using the folders on the left.
 
-
-
 ---
 
