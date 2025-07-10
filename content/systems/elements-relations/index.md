@@ -13,7 +13,15 @@ Insights from Martin Zwick's "Elements and Relations: Aspects of a Scientific Me
 
 **[[synthesis]]** - Connected thoughts and synthesis
 
-**Browse atomic notes:**
+**Browse by chapter:**
+- [[systems/elements-relations/chapter-1|Chapter 1]] - Being and Becoming (1 note)
+- [[systems/elements-relations/chapter-2|Chapter 2]] - An exact and scientific metaphysics (5 notes)
+- [[systems/elements-relations/chapter-3|Chapter 3]] - Concepts and categories (9 notes)
+- [[systems/elements-relations/chapter-4|Chapter 4]] - Related fields (11 notes)
+- [[systems/elements-relations/chapter-5|Chapter 5]] - The challenge of integration (12 notes)
+- [[systems/elements-relations/chapter-6|Chapter 6]] - Science, religion, politics (26 notes)
+
+**Browse all atomic notes:**
 - Use the file explorer on the left to browse individual insights
 - Or view [[tags/elements-relations|all 65 atomic notes]] via tags
 

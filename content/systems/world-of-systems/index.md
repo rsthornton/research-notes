@@ -13,7 +13,11 @@ Insights from Mario Bunge's "Treatise on Basic Philosophy—Ontology II: A World
 
 **[[synthesis]]** - Connected thoughts and synthesis
 
-**Browse atomic notes:**
+**Browse by chapter:**
+- [[systems/world-of-systems/chapter-1|Chapter 1]] - Systems fundamentals (15 notes)
+- 
+
+**Browse all atomic notes:**
 - Use the file explorer on the left to browse individual insights  
 - Or view [[tags/world-of-systems|all 16 atomic notes]] via tags
 

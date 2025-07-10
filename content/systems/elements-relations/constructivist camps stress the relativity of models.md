@@ -1,9 +1,13 @@
 ---
-tags: [elements-relations, methodology, epistemology, modeling]
+tags:
+  - elements-relations
+  - methodology
+  - epistemology
+  - modeling
 source: "Zwick, M. (2023). Elements and Relations: Aspects of a Scientific Metaphysics (Vol. 35). Springer International Publishing."
 page: 219
-chapter: ""
-citation_key: "zwick2023"
-doi: "https://doi.org/10.1007/978-3-030-99403-7"
+chapter: "6"
+citation_key: zwick2023
+doi: https://doi.org/10.1007/978-3-030-99403-7
 ---
 
