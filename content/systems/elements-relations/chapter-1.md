@@ -9,4 +9,4 @@ tags: [elements-relations, chapter-1]
 
 ---
 
-← Back to [[index|Elements and Relations]] collection 
+← Back to [[public-notes/quartz/content/systems/elements-relations/index|Elements and Relations]] collection 

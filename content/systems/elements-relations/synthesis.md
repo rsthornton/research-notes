@@ -34,4 +34,4 @@ tags: [synthesis, elements-relations]
 
 ---
 
-*This synthesis connects insights from 65 atomic notes. Browse the [[index|collection]] or explore [[tags/elements-relations|all atomic notes]].* 
+*This synthesis connects insights from 65 atomic notes. Browse the [[public-notes/quartz/content/systems/elements-relations/index|collection]] or explore [[tags/elements-relations|all atomic notes]].* 

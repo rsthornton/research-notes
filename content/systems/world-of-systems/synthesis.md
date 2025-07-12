@@ -34,4 +34,4 @@ tags: [synthesis, world-of-systems]
 
 ---
 
-*This synthesis connects insights from 16 atomic notes. Browse the [[index|collection]] or explore [[tags/world-of-systems|all atomic notes]].* 
+*This synthesis connects insights from 16 atomic notes. Browse the [[public-notes/quartz/content/systems/world-of-systems/index|collection]] or explore [[tags/world-of-systems|all atomic notes]].* 

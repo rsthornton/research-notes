@@ -36,4 +36,4 @@ tags: [world-of-systems, chapter-1]
 
 ---
 
-← Back to [[index|World of Systems]] collection 
+← Back to [[public-notes/quartz/content/systems/world-of-systems/index|World of Systems]] collection 
