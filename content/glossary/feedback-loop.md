@@ -41,6 +41,13 @@ Bunge does not provide an explicit definition of feedback loop in his systems on
 
 Mobus emphasizes the *temporal scale* problem: feedback loops operating at different speeds can destabilize systems. This connects to Principle 8: "Systems have governance subsystems to achieve stability." Feedback is what transforms a collection of parts into an integrated whole capable of self-regulation.
 
+## Explore Further
+
+- [[reflections/explaining human behavior requires dealing with total completed circuits|Behavior requires complete circuits]] — Bateson's foundational insight on feedback as unit of analysis
+- [[reflections/cybernetic explanation is always negative - the course of events are subject to restraints|Cybernetic explanation is negative]] — Feedback operates through constraints
+- [[reflections/lineal models remain the norm in social science despite the fact that many social phenomena exhibit feedback|Linear models miss feedback]] — Zwick's critique of inadequate thinking
+- [[reflections/information sources for an agent are restraints for the cybernetic observer|Information as restraint]] — Bateson on information flow in feedback systems
+
 ## Related Concepts
 
 - [[glossary/system|System]] — where feedback loops operate

@@ -29,6 +29,14 @@ An organized set of interacting components forming a coherent whole, with identi
 
 Both formalizations agree systems are relational structures defined by composition, environment, and the relations among them. Mobus extends Bunge's minimal set-theoretic formulation with temporal dynamics (T), history (H), governance (G), and transformations (Δ) — elements necessary for modeling real-world complex adaptive systems.
 
+## Explore Further
+
+- [[reflections/understanding a system requires knowing its composition, environment, structure, history, and laws|Understanding a system requires knowing its composition, environment, structure, history, and laws]] — Bunge's five essential aspects
+- [[reflections/a thing is an aggregate iff its state space equals the union of the state spaces of its components, otherwise it's a system|Aggregates vs systems]] — Mathematical distinction between collections and true systems
+- [[reflections/the universe is the supersystem of all other systems, and a system composed of subsystems|The universe as supersystem]] — Nested hierarchical nature
+- [[reflections/mental characteristics of systems are immanent in the whole, but not in some parts|Mental characteristics are immanent in the whole]] — Bateson on emergent properties
+- [[reflections/there are universal structures and processes common to many different types of systems|Universal structures across systems]] — Cross-domain isomorphisms
+
 ## Related Concepts
 
 - [[glossary/boundary|Boundary]] — defines what's inside vs outside

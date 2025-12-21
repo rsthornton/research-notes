@@ -33,6 +33,13 @@ Mobus makes boundary explicit as a composite of *properties* (what the boundary 
 
 Boundaries are not passive containers but active regulators. They determine what flows in and out, maintaining system identity while permitting necessary exchanges with the environment.
 
+## Explore Further
+
+- [[reflections/explaining human behavior requires dealing with total completed circuits|Explaining behavior requires complete circuits]] — Bateson on boundaries defined by causal loops
+- [[reflections/the individual mind exists not only in the body, but also in pathways and messages outside of the body|Mind extends beyond the body]] — Radical reconception of mental boundaries
+- [[reflections/cybernetics recognizes self as part of a very large trial and error system|Self as part of larger system]] — Boundary between self and environment dissolves
+- [[reflections/a system's degree of integration depends on connections or links among a systems components relative to disintegrating actions of the environment|Integration vs disintegration]] — Boundaries defined by cohesion gradients
+
 ## Related Concepts
 
 - [[glossary/system|System]] — what the boundary encloses

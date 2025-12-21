@@ -35,6 +35,13 @@ Bunge's action-based definition is precise: environment consists *only* of thing
 
 The environment is not passive backdrop — it co-constitutes the system. A system's identity is partly defined by what it exchanges with its environment.
 
+## Explore Further
+
+- [[reflections/the unit of survival for natural selection is a flexible organism in its environment|Unit of survival is organism-in-environment]] — Bateson on irreducible coupling
+- [[reflections/search for a system's internal sources of change before blaming changes on its environment|Search internal sources before blaming environment]] — Bunge's methodological caution
+- [[reflections/thermodynamics addresses core systems metaphysics themes - order vs. disorder and system-environment interactions|Thermodynamics and system-environment exchange]] — Fundamental pattern of interaction
+- [[reflections/plastic, adaptive sytems stay stable within a changing environment. unstable systems suffer structural or functional breakdown|Adaptive systems in changing environments]] — Stability through flexibility
+
 ## Related Concepts
 
 - [[glossary/system|System]] — what the environment surrounds

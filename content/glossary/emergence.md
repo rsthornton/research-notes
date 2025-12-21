@@ -43,6 +43,14 @@ Both reject naive holism while embracing emergent properties. Understanding part
 - Market prices emerge from individual trades
 - Traffic jams emerge from driver decisions
 
+## Explore Further
+
+- [[reflections/emergent properties are ones that are new for a system at a time step|Emergent properties are temporally new]] — Bunge's precise definition
+- [[reflections/focusing on emergence emphasizes the sharp question - what questions are necessary and sufficient for life or mind to occur|What's necessary for life or mind?]] — Zwick on emergence as central question
+- [[reflections/mental characteristics of systems are immanent in the whole, but not in some parts|Mental characteristics in the whole]] — Bateson on mind as emergent
+- [[reflections/a systems ontology of problems sees them as emerging from complex situations|Problems emerge from situations]] — Zwick on systemic emergence
+- [[reflections/self-organization is a special case of self-assembly|Self-organization vs self-assembly]] — Bunge's distinction
+
 ## Related Concepts
 
 - [[glossary/system|System]] — the level at which emergence occurs
