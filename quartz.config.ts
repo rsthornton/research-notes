@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "notes.shingai.xyz",
+    baseUrl: "garden.halcyonic.systems",
     ignorePatterns: [
       // System & Config Files
       "private", 
