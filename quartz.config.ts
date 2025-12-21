@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Systemism",
+    pageTitle: "Halcyonic Garden",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -55,32 +55,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Fraunces",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f0f9ff",      // ocean-50: soft blue background
+          lightgray: "#e0f2fe",  // ocean-100: borders, code blocks
+          gray: "#64748b",       // slate-500: secondary text
+          darkgray: "#334155",   // slate-700: body text
+          dark: "#0c4a6e",       // ocean-900: headings
+          secondary: "#0284c7",  // ocean-600: links
+          tertiary: "#14b8a6",   // teal-500: hover, graph nodes
+          highlight: "rgba(14, 165, 233, 0.15)",  // ocean-500 tint
+          textHighlight: "#fef08a88",  // warm-200: highlights
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#082f49",      // ocean-950: deep blue background
+          lightgray: "#0c4a6e",  // ocean-900: borders
+          gray: "#94a3b8",       // slate-400: secondary text
+          darkgray: "#e2e8f0",   // slate-200: body text
+          dark: "#f0f9ff",       // ocean-50: headings
+          secondary: "#38bdf8",  // ocean-400: links
+          tertiary: "#14b8a6",   // teal-500: hover, graph nodes
+          highlight: "rgba(56, 189, 248, 0.15)",  // ocean-400 tint
+          textHighlight: "#fde04788",  // warm-300: highlights
         },
       },
     },
