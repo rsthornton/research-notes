@@ -1,1 +1,0 @@
-a [[system]] is a collection of parts

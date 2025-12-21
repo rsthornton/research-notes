@@ -1,1 +1,0 @@
-systemism is a term coined by Mario Bunge
