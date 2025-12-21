@@ -7,13 +7,34 @@ tags:
 
 # Emergence
 
-When complex patterns or behaviors arise from simpler component interactions — properties the whole has that the parts don't have alone.
+When complex patterns or behaviors arise from simpler component interactions — properties the whole has that the parts don't have alone. The reason reductionism has limits.
 
-## Characteristics
+## Formal Definitions
 
-- **Novelty**: Emergent properties are genuinely new, not just aggregations
-- **Irreducibility**: Cannot be predicted from parts alone (in practice)
-- **Downward causation**: Emergent wholes constrain their parts
+**Mobus & Kalton (2015)**:
+> "Elements in the directed graph denote terms that will be used in the top-level ontology of systems. These are the things that exist by virtue of the Universe organizing as it does, through auto-organization, emergence, and evolution... These are the core things that we will look for in our analysis of systems regardless of the level of organization or complexity."
+
+*(Principles of Systems Science, Section 3.5)*
+
+Emergence follows from hierarchical composition: auto-organization → emergence → selection forms the ontogenetic cycle that produces increasingly complex systems.
+
+*(Section 3.5, systems ontology)*
+
+**Bunge (1979)**:
+> "Emergent properties are ones that are new for a system at a time step."
+
+*(A World of Systems, p. 29, Chapter 1)*
+
+On the relationship to self-organization:
+> "Self-organization is a special case of self-assembly."
+
+*(A World of Systems, p. 27, Chapter 1)*
+
+## Synthesis
+
+**Critical distinction**: Bunge defines emergence *temporally* (novelty at time t), not through irreducibility or predictability. This makes emergence empirically testable rather than philosophically contested. Mobus links emergence to the ontogenetic cycle: systems auto-organize, novel properties emerge, selection acts, and the cycle repeats.
+
+Both reject naive holism while embracing emergent properties. Understanding parts is necessary but not sufficient for understanding wholes.
 
 ## Examples
 
@@ -21,10 +42,6 @@ When complex patterns or behaviors arise from simpler component interactions —
 - Consciousness emerges from neural activity
 - Market prices emerge from individual trades
 - Traffic jams emerge from driver decisions
-
-## Key Insight
-
-Emergence is why reductionism has limits. Understanding parts is necessary but not sufficient for understanding wholes.
 
 ## Related Concepts
 

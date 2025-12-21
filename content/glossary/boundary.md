@@ -7,23 +7,31 @@ tags:
 
 # Boundary
 
-The demarcation separating a [[glossary/system|system]] from its [[glossary/environment|environment]], including the interfaces where exchanges occur.
+The demarcation separating a [[glossary/system|system]] from its [[glossary/environment|environment]]. Not merely a line, but a structured interface where exchanges occur and identity is maintained.
 
-## Functions
+## Formal Definitions
 
-- **Separation**: Distinguishes inside from outside
-- **Regulation**: Controls what flows in and out
-- **Identity**: Defines what belongs to the system
+**Mobus & Kalton (2015)**:
+> "The boundary B at level l is a tuple: B_{i,l} = ⟨P, I⟩ where P is the set of properties and I is the set of interfaces."
 
-## Types
+*(Principles of Systems Science, Section 4.3)*
 
-- **Physical boundaries**: Membranes, walls, containers
-- **Conceptual boundaries**: Organizational limits, jurisdictions
-- **Dynamic boundaries**: Boundaries that shift based on context or observer
+Boundedness appears as a core ontological element at Level 0 in Mobus's systems ontology, alongside SYSTEM, PROCESS, and BEHAVIOR.
+
+*(Section 3.5, Fig. 3.13)*
+
+**Bunge (1979)**:
+Bunge treats boundary implicitly through the formal requirement that composition (C) and environment (E) be mutually disjoint sets: C ∩ E = ∅. The boundary emerges from this separation rather than being defined independently.
+
+*(A World of Systems, Chapter 1)*
+
+## Synthesis
+
+Mobus makes boundary explicit as a composite of *properties* (what the boundary IS) and *interfaces* (where exchanges HAPPEN). Bunge's implicit treatment emphasizes that boundary is a logical consequence of distinguishing system from environment. Both agree boundary placement is an analytical choice — the same phenomenon can be bounded differently depending on the question being asked.
 
 ## Key Insight
 
-Boundary placement is an analytical choice. The same phenomenon can be bounded differently depending on the question being asked.
+Boundaries are not passive containers but active regulators. They determine what flows in and out, maintaining system identity while permitting necessary exchanges with the environment.
 
 ## Related Concepts
 

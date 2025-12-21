@@ -7,7 +7,23 @@ tags:
 
 # Feedback Loop
 
-A circular process where a [[glossary/system|system's]] output returns to influence its input, creating self-referential causality.
+A circular process where a [[glossary/system|system's]] output returns to influence its input, creating self-referential causality. The mechanism by which systems regulate themselves and produce complex behavior.
+
+## Formal Definitions
+
+**Mobus & Kalton (2015)**:
+> "Systems constantly adjust themselves by feedback loops, but when interdependent components operate with feedback loops of different temporal scales the system may become unstable. Systems science explicitly calls for attention to dynamics at all time scales in which conflicts could threaten the sustainability of the system."
+
+*(Principles of Systems Science, Section 2.3, Principle 4: Dynamics)*
+
+Feedback loops are compositionally defined as: **Sensing → Modulating → Propelling** = Cybernetic control
+
+*(Process definitions in systems ontology)*
+
+**Bunge (1979)**:
+Bunge does not provide an explicit definition of feedback loop in his systems ontology. In his framework, feedback would be formalized through cyclic relations in the structure set S, where output states at time t influence input states at time t+1.
+
+*(Implicit in A World of Systems, Chapter 1)*
 
 ## Types
 
@@ -21,9 +37,9 @@ A circular process where a [[glossary/system|system's]] output returns to influe
 - Produces growth, collapse, or runaway change
 - Examples: compound interest, viral spread, arms races
 
-## Key Insight
+## Synthesis
 
-Feedback is what makes systems behave as integrated wholes rather than collections of parts. It's the mechanism behind [[glossary/emergence|emergence]].
+Mobus emphasizes the *temporal scale* problem: feedback loops operating at different speeds can destabilize systems. This connects to Principle 8: "Systems have governance subsystems to achieve stability." Feedback is what transforms a collection of parts into an integrated whole capable of self-regulation.
 
 ## Related Concepts
 
