@@ -34,4 +34,40 @@ Foundational terms for systems thinking — formal definitions grounded in Mobus
 
 ---
 
+## Applied Domains
+
+Systems thinking applied to specific fields of study.
+
+### [[glossary/cryptoeconomics|Cryptoeconomics]]
+
+Economic coordination through cryptographic protocols.
+
+- [[glossary/consensus-mechanism|Consensus Mechanism]] — distributed agreement on state
+- [[glossary/tokenomics|Tokenomics]] — economic design of token flows
+- [[glossary/mechanism-design|Mechanism Design]] — engineering incentive structures
+- [[glossary/smart-contract|Smart Contract]] — autonomous on-chain subsystems
+- [[glossary/protocol|Protocol]] — rules defining system boundaries
+
+### [[glossary/neuromorphics|Neuromorphics]]
+
+Brain-inspired computing architectures.
+
+- [[glossary/spiking-neural-network|Spiking Neural Network]] — computation through discrete events
+- [[glossary/memristor|Memristor]] — memory and processing unified
+- [[glossary/neuromorphic-hardware|Neuromorphic Hardware]] — physical neural substrates
+- [[glossary/temporal-coding|Temporal Coding]] — information in spike timing
+- [[glossary/synaptic-plasticity|Synaptic Plasticity]] — adaptive connection strengths
+
+### [[glossary/political-economy|Political Economy]]
+
+Governance, institutions, and collective action.
+
+- [[glossary/institution|Institution]] — stable structures of rules and norms
+- [[glossary/governance|Governance]] — collective decision-making
+- [[glossary/collective-action|Collective Action]] — coordination problems
+- [[glossary/polycentric-governance|Polycentric Governance]] — nested decision centers
+- [[glossary/spontaneous-order|Spontaneous Order]] — emergent coordination
+
+---
+
 *See also: [Glossary on main site](https://halcyonic.systems/glossary) for a quick reference.*
