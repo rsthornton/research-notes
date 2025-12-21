@@ -2,6 +2,32 @@
 
 // put your custom CSS here!
 
+// Halcyonic gradient background
+body {
+  background: linear-gradient(
+    135deg,
+    #e0f2fe 0%,      // ocean-100
+    #f0f9ff 25%,     // ocean-50
+    #ccfbf1 50%,     // teal-100
+    #f0fdfa 75%,     // teal-50
+    #e0f2fe 100%     // ocean-100
+  );
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+// Dark mode gradient
+:root[saved-theme="dark"] body {
+  background: linear-gradient(
+    135deg,
+    #0c4a6e 0%,      // ocean-900
+    #082f49 25%,     // ocean-950
+    #134e4a 50%,     // teal-900
+    #0f172a 75%,     // slate-900
+    #0c4a6e 100%     // ocean-900
+  );
+}
+
 // Hide metadata on index page
 body.index .page-header,
 body.index .content-meta,
