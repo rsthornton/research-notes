@@ -2,7 +2,7 @@
 title: "Building your Quartz"
 ---
 
-Once you've [[public-notes/quartz/docs/index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
+Once you've [[operations/public-notes/quartz/docs/index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
 
 ```bash
 npx quartz build --serve
