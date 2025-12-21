@@ -37,6 +37,7 @@ enableToc: false
 > - [[tags/steps-to-an-ecology-of-mind|Bateson]] — *Steps to an Ecology of Mind*
 > - [[tags/elements-relations|Zwick]] — *Elements and Relations*
 > - [[tags/world-of-systems|Bunge]] — *A World of Systems*
+> - [[tags/principles-of-systems-science|Mobus & Kalton]] — *Principles of Systems Science*
 
 ---
 
