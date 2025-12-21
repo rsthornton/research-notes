@@ -2,27 +2,35 @@
 
 // put your custom CSS here!
 
-// Halcyonic gradient background - override Quartz base
-body {
-  background: linear-gradient(
-    135deg,
-    #f0fdfa 0%,     // teal-50 (start light)
-    #ccfbf1 30%,    // teal-100
-    #e0f2fe 60%,    // ocean-100 (hint of blue)
-    #f0fdfa 100%    // teal-50 (end light)
-  ) !important;
-  background-attachment: fixed !important;
+// Halcyonic accent enhancements
+a {
+  color: #0369a1 !important;  // ocean-700: bolder links
+  &:hover {
+    color: #0284c7 !important;  // ocean-600: hover state
+  }
 }
 
-// Dark mode gradient
-:root[saved-theme="dark"] body {
-  background: linear-gradient(
-    135deg,
-    #0f172a 0%,     // slate-900 (start dark)
-    #134e4a 30%,    // teal-900
-    #0c4a6e 60%,    // ocean-900 (hint of blue)
-    #0f172a 100%    // slate-900 (end dark)
-  ) !important;
+h1, h2, h3 {
+  color: #075985 !important;  // ocean-800: strong headings
+}
+
+// Graph node colors
+.graph svg .node > circle {
+  fill: #0ea5e9 !important;  // ocean-500
+}
+
+// Dark mode accents
+:root[saved-theme="dark"] {
+  a {
+    color: #38bdf8 !important;  // ocean-400
+    &:hover {
+      color: #7dd3fc !important;  // ocean-300
+    }
+  }
+
+  h1, h2, h3 {
+    color: #bae6fd !important;  // ocean-200
+  }
 }
 
 // Hide metadata on index page
